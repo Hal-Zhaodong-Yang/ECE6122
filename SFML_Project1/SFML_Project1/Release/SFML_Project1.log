@@ -1,0 +1,242 @@
+﻿  main.cpp
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(63): warning C4305: 'initializing': truncation from 'double' to 'const float'
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(164): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(164): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(166): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(173): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(210): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(234): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(244): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(254): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(264): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(274): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(284): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(294): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(305): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(316): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(327): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(337): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(347): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(370): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(378): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(379): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(380): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(384): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(385): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(387): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(389): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(391): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(393): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(399): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(402): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(487): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(489): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(491): warning C4305: '=': truncation from 'double' to 'float'
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(495): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(496): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(510): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(511): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(516): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(517): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(521): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(526): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(528): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(534): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(537): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(544): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(554): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(557): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(873): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(963): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(964): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(965): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(966): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(967): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(968): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(969): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(970): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(971): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(1036): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(1037): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\gatech\2021fall\advprogramtech\sfml_project1\sfml_project1\main.cpp(1038): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  3 of 318 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML_Project1.vcxproj -> D:\Gatech\2021Fall\AdvProgramTech\SFML_Project1\Release\SFML_Project1.exe
