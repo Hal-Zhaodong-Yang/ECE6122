@@ -1,0 +1,4 @@
+﻿  Lab2_Problem2.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+d:\gatech\2021fall\advprogramtech\lab2\problem2\problem2\lab2_problem2.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+  Problem2.vcxproj -> D:\Gatech\2021Fall\AdvProgramTech\Lab2\Problem2\x64\Debug\Problem2.exe

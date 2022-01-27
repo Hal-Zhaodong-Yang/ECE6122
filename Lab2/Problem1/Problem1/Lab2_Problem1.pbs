@@ -1,0 +1,14 @@
+#PBS -N Lab2_Problem1               # name of job
+#PBS -A zyang645           # account to which job is charged
+#PBS -l nodes=1:ppn=24               # resources allocated, 1 node 24 processors
+#PBS -l pmem=2gb                    # memory per core
+#PBS -l walltime=00:15:00              # job will run at most 15 min
+#PBS -q coc-ice                     # job is submitted to coc-ice queue
+#PBS -j oe                          # output and error is combined into the same file
+#PBS -o Lab2_Problem1.out          # output file is named gettingStarted.out
+
+# computation starts here
+cd ~/Lab2              # changes into directory where script was submitted from
+g++ Lab2_Problem1.cpp --std=c++11 -o Lab2_Problem1.out -O3  # compile
+time ./Lab2_Problem1.out                              #execute
+# computation ends

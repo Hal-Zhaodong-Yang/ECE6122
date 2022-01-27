@@ -1,0 +1,10 @@
+﻿  Lab2_Problem1.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+d:\gatech\2021fall\advprogramtech\lab2\problem1\problem1\lab2_problem1.cpp(29): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+d:\gatech\2021fall\advprogramtech\lab2\problem1\problem1\lab2_problem1.cpp(80): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+  正在生成代码
+  373 of 381 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Problem1.vcxproj -> D:\Gatech\2021Fall\AdvProgramTech\Lab2\Problem1\x64\Release\Problem1.exe

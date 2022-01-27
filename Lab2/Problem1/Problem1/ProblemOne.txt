@@ -1,0 +1,3 @@
+Number of threads created: 8
+Expected number of steps: 430.145491
+Total number of runs needed for solution convergence: 10000000
